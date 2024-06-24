@@ -3,6 +3,8 @@
 ## Power BI Sales Performance Dashboard
 This dashboard is designed to provide a comprehensive view of sales data, empowering teams with actionable insights for better decision-making.
 
+![alt text](https://github.com/R18A1J10/PowerBiProjects/blob/0f6ee12fa5e71b3ae62fe7ed3885b23353dd6669/Sale%20Performance%20Dasboard/Screenshot%202024-06-24%20201341.png)
+
 ### Key Metrics
 * Total Sales: $19M (Actual) vs. $19M (Target)
 * Variance: ($367K) | 1.9% below target
